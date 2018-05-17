@@ -1,5 +1,5 @@
 {
-  "name": "redux-form-validators",
+  "name": "@axa-ch/redux-form-validators",
   "version": "2.7.0",
   "description": "Simple validations with redux-form",
   "module": "lib/index.js",
